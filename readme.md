@@ -1,1 +1,1 @@
-XSLT for treansformation of EAD to MODS metadata
+In my work I have come across scenarios where there have been need of writing simple transformation from one XML code to another. So I though of putting together some simple transformation codes . This  XSLT is for treansformation of EAD to MODS metadata, which would be useful in scenarios where organisations need to do metadata crosswalk (exported from Archival system and to be ingested into Digital Library)
